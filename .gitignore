@@ -1,0 +1,16 @@
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Never commit credentials
+.env
+.env.*
+*.key
+*.pem
+
+# Nothing personal belongs in this repo — strategy, finances, and contacts
+# live in the private founder-direction repo, never here.
